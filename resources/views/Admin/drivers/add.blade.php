@@ -108,7 +108,7 @@
   <script>
     // Initialize Firebase
     var config = {
-      apiKey: "AIzaSyDpkXJ7MsU6emR-KPyGRQi6NT_WEFrW53M",
+      apiKey: "##",
       authDomain: "qwegoo-bb78c.firebaseapp.com",
       databaseURL: "https://qwegoo-bb78c.firebaseio.com/",
       storageBucket: "qwegoo-bb78c.appspot.com",
