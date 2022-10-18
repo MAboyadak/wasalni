@@ -265,7 +265,7 @@
   <script>
     // Initialize Firebase
     var config = {
-      apiKey: "AIzaSyCM2MFaxVkWiT3YE2MPInrHmmsRBAFdf6E",
+      apiKey: "##",
       authDomain: "wasalni-225100.firebaseapp.com",
       databaseURL: "https://wasalni-225100.firebaseio.com/",
       storageBucket: "wasalni-225100.appspot.com",
